@@ -1,0 +1,2 @@
+# Stock-Price-Prediction-with-Facebook-Prophet-Model
+This repository demonstrates the application of Facebook Prophet, a powerful time series forecasting algorithm developed by Facebook’s Core Data Science team, for predicting the stock price of Google (Alphabet Inc). Prophet is particularly suited for data with strong seasonal effects and works robustly with missing data, outliers, and trend shifts.
